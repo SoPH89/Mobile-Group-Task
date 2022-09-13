@@ -1,13 +1,11 @@
-# OpenlayersAngular
+# About the project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
+Angular application that displays world map by using Openlayers libraray.
 
-## Development server
+# Running the application
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run command "npm install"
 
-## Code scaffolding
+Run command "ng serve" for running the application
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-
+go to http://localhost:4200 for viewing the application.
