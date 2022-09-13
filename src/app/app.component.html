@@ -1,0 +1,13 @@
+<header>
+  <div class="title">Mobile-Group Task</div>
+</header>
+<main>
+
+  <div class="map-container">
+    <app-map [map]="map"></app-map>
+  </div>
+</main>
+<footer>
+  <app-scaleline [map]="map"></app-scaleline>
+  <app-mouse-position [map]="map" positionTemplate="{x}, {y} m"></app-mouse-position>
+</footer>
